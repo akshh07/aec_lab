@@ -1,0 +1,6 @@
+git init - Initialize repository
+git add - Add files
+git commit - Save changes
+git status - Check status
+git push - Upload files
+git pull - Download changes
